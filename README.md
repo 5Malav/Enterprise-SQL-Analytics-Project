@@ -144,15 +144,6 @@ Enterprise_SQL_Project/
 
 ---
 
-## How to Run
-
-1. Create database in MySQL.
-2. Execute schema files from the `schema/` directory.
-3. Load data using insert scripts.
-4. Run queries phase-wise from the `queries/` folder.
-
----
-
 ## Author
 
 Developed as part of an advanced SQL portfolio project to demonstrate full-spectrum SQL expertise from foundational queries to enterprise analytics.
